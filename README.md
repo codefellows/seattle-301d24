@@ -1,5 +1,7 @@
-# seattle-301d23
-*Class lecture repo for seattle-301d23. Lead Instructor: Sam Hamm*
+# seattle-301d24
+*Class lecture repo for seattle-301d24. Lead Instructor: Nicholas Hunt-Walker*
+
+**Course Lab Repository:** https://github.com/codefellows-seattle-301d24
 
 <a id="top"></a>
 ## Code 301
@@ -141,6 +143,6 @@ In teams, students create a single page web application that demonstrates comman
 <a id="studentsetup"></a>
 ## Student Setup & Lab Workflow
 
-The README for the first lab assignment (../labs/01-mobile-first) has detailed instructions for students in setting up their local directories on their laptops and also instructions in pair-programming process.
+The README for the first lab assignment has detailed instructions for students in setting up their local directories on their laptops and also instructions in pair-programming process.
 
 [-top-](#top)
