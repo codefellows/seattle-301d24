@@ -14,7 +14,7 @@
 - Slides: jQuery and the DOM
 - Duckett JS textbook: pp.293-325 are a reference
 - [jQuery Cheat sheet](http://oscarotero.com/jquery)
-- jQuery: Store it locally or use a CDN?
+- jQuery: Store it locally or use a CDN? [StackOverflow](https://stackoverflow.com/questions/2746075/whats-faster-for-including-scripts-using-cdn-google-or-storing-them-locally)
 - jQuery demo code
 
 `10-minute break`
