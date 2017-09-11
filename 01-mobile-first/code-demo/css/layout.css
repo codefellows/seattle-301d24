@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 80vw;
+  padding: 1vw;
+  background-color: green;
+}
+section {
+  text-align: center;
+}
+h1 {
+  font-size: 10vw;
+}
+
+/* Tablet */
+@media all and (min-width: 600px) {
+  img {
+    width: 48vw;
+  }
+}
+
+/* Laptop */
+@media all and (min-width: 800px) {
+  img {
+    width: 33vw;
+  }
+}
