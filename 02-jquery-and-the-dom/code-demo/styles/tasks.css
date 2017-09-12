@@ -3,6 +3,9 @@
   width: 50%;
   margin: auto;
 }
+#task-list li:hover {
+  background-color: rgba(255, 255, 0, 0.5);
+}
 .task {
   font-size: 1.3em;
   margin: 20px auto;
