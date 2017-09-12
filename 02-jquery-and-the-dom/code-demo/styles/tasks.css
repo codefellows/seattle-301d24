@@ -1,0 +1,32 @@
+
+#task-list {
+  width: 50%;
+  margin: auto;
+}
+.task {
+  font-size: 1.3em;
+  margin: 20px auto;
+  position: relative;
+}
+
+.task .close {
+  background-color: #990000;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 20px;
+  text-align: center;
+}
+
+.task .close:hover {
+  background-color: #FF0000;
+}
+
+.task .left {
+  width: 80%;
+  float: left;
+}
+.task .right {
+  width: 20%;
+  float: left;
+}

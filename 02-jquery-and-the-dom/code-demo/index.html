@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="vendor/styles/reset.css" />
+    <link rel="stylesheet" href="styles/base.css" />
+    <link rel="stylesheet" href="styles/layout.css" />
+    <link rel="stylesheet" href="styles/table.css" />
+    <link rel="stylesheet" href="styles/tasks.css" />
+  </head>
+  <body>
+    <h1>To Do List</h1>
+    <div class="col-3">
+      <form id="task-form" action="" method="post">
+        <table>
+          <tr>
+            <td><label for="task">Task (&lt;80 char)*: </label></td>
+            <td><input class="field" type="text" name="task" required maxlength="80"></td>
+            <td rowspan="2"><input type="submit" value="Add Task" id="submit"></td>
+          </tr>
+          <tr>
+            <td><label for="date">Due By: </label></td>
+            <td><input class="field" type="date" name="date"></td>
+          </tr>
+        </table>
+      </form>
+    </div>
+    <div class="col-9">
+      <ul id="task-list"></ul>
+    </div>
+  </body>
+  <script src="data/existingTasks.js" charset="utf-8"></script>
+  <script src="scripts/app.js" charset="utf-8"></script>
+</html>
