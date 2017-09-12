@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="styles/layout.css" />
     <link rel="stylesheet" href="styles/table.css" />
     <link rel="stylesheet" href="styles/tasks.css" />
+    <script src="vendor/scripts/jquery-3.2.1.min.js" charset="utf-8"></script>
   </head>
   <body>
     <h1>To Do List</h1>
@@ -27,7 +28,24 @@
       </form>
     </div>
     <div class="col-9">
-      <ul id="task-list"></ul>
+      <ul id="task-list">
+        <li id="template">
+          <article class="task">
+            <div class="left">
+              <h2>Title of the task</h2>
+              <p>
+                <span>Due by: </span>
+                <span>Some date</span>
+              </p>
+            </div>
+            <div class="right">
+              <div class="close" data="the-id-of-my-task">&times;
+              </div>
+            </div>
+            <div class="clearfix"></div>
+          </article>
+        </li>
+      </ul>
     </div>
   </body>
   <script src="data/existingTasks.js" charset="utf-8"></script>

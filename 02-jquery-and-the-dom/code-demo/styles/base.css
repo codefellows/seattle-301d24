@@ -4,3 +4,6 @@
 .clearfix {
   clear: both;
 }
+#template {
+  display: none;
+}
