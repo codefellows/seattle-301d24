@@ -13,7 +13,6 @@
 
 **Assorted topics to hit quickly**
 
-- Typography: HUGE topic, as mentioned a couple of days ago; a few resources at bottom of this doc
 - [ECMAScript 2015](http://www.ecma-international.org/ecma-262/6.0/)? What the heck is [ECMA](http://www.ecma-international.org/)?
 - [ES6 template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) docs, and [an article on them by Addy Osmani](https://developers.google.com/web/updates/2015/01/ES6-Template-Strings).
 	- Why? Take a look at these two things...
@@ -64,8 +63,6 @@ ABCD:
 * Effectively use templates to present user-entered (or server-provided) data (methods on the Handlebars object).
 
 * Distinguish between the different Handlebars expression types ( **{{}}** vs **{{{}}}** ).
-
-* Modify and style typographic components (**serif, san-serif fonts, font-size, font-family, color, font-weight**, etc)
 
 ## Readings
 <!-- List of readings required for this content; readings being completed by the start of this lecture -->
