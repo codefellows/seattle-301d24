@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Class 04 - Handlebars!</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js" charset="utf-8"></script>
+    <script id="post-template" type="text/x-handlebars-template">
+      <article class="post">
+        <h2 class="title">{{ title }}</h2>
+        <span class="byline">{{ author }}</span>
+        <section class="post-body">
+          {{{ body }}}
+        </section>
+      </article>
+    </script>
+  </head>
+  <body>
+
+    <script src="app.js" charset="utf-8"></script>
+  </body>
+</html>
