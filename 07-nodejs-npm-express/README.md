@@ -9,8 +9,6 @@
 
 *Today's lab is another one that is on the lighter side, but starting tomorrow, the next three labs are probably the toughest of the course. Resist the temptation to coast once you've completed today's lab! Make sure that you understand EVERYTHING in the starter code inside and out!!!*
 
-**4:00pm: "Choose a Stack: Instructor Panel for 201 & 301 Students" will be happening in the main event space. If you have any questions about your path forward, or would like to meet the instructors of our 401 courses, be sure to attend.**
-
 ## Daily Plan
 
 - Code Review: The goal for today is to ensure that we have solid understanding of the architecture of the blog app, and what all of the individual pieces are doing, and how they interact. Let's do a stack trace exercise!

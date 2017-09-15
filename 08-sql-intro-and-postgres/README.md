@@ -9,8 +9,6 @@
 
 *There is NO new portfolio assignment associated with today, so that means you can focus on the lab assignment this afternoon and use any extra time to catch up leftover pieces of the portfolio assignments.*
 
-**[Our Week 2 one-on-one meetings start today! Follow this link to sign up for a slot.](https://sam-301d23.youcanbook.me/)**
-
 ## Daily Plan
 
 - Code Review
@@ -19,8 +17,6 @@
 - [Postgres article on Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
 
 `10-minute break`
-
-**Slides on SQL (41 slides, so this will take a while!)**
 
 - A little more about REST to start off...
 
@@ -52,8 +48,6 @@
 	- CHAR
 	- VARCHAR
 
-
-
 `10-minute break`
 
 - ***Review of lab code***
@@ -80,6 +74,8 @@ ABCD:
 
 ## Readings
 <!-- List of readings required for this content; readings being completed by the start of this lecture -->
+
+* [SQLZoo](http://www.sqlzoo.net)
 
 * [SQLBolt (Intro, Lessons 1-4, 13-18)](http://sqlbolt.com/)
 

@@ -5,27 +5,7 @@
 
 *The focus of this class is on basic functional programming concepts through the use of the following array methods: `.forEach()`, `.map()`, `.filter()`, and `.reduce()`.*
 
-Reminder: One-on-one meetings are ongoing! [Sign up for one](https://sam-301d23.youcanbook.me/) if you haven't already. Today's schedule as it currently stands:
-
-- 2:00 - Darryl
-- 2:15 - Duane
-- 2:30 - Adam
-- 2:45 - Thomas
-- 4:00 - Ryan
-- 4:30 - Stuart
-- 4:45 - Mario
-
-So, at the moment these are available: 3:00, 3:15, 3:30, 3:45, 4:15.
-
-## Daily Plan
-
-- **9:00-10:15ish:** Part 1 of lecture
-- **10:30ish-11:45:** Part 2 of lecture after a 15-minute break
-- **11:45-12:15:** break
-- **12:15-1:00:** Partner Power Hour: CF grad Jonathan Heemstra, front-end engineer at Subsplash
-
 ---
-
 
 - **Week In Review, and What Lies Ahead**
 

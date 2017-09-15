@@ -11,27 +11,9 @@
 
 *One more thing: ES2015 syntax for variable declarations! `let` and `const` join the party.*
 
-
-## Daily Plan
-
-- Quick and dirty:
-	- 9:00-9:45 - Discuss Lab 5
-	- 9:45-11:00 - Eclipse break!
-	- 11:00-noon - Dicuss Lab 5; start Lecture 6?
-	- noon: lunch
-	- 1:00-2:00 - Lecture 6
-	- (break?)
-	- (More on Lecture 6 as needed?)
-
 ---
 
 - How are everyone's Postgres setups? We need those solid by Wednesday. If you had problems during installation/setup, let's address those in lab during the next couple of days.
-
-- Code Review/Q&A on Lab 5
-
-`Eclipse break until 11:00`
-
-- Continuing review/Q&A on Lab 5 as needed... then start on Lecture 6?
 
 - Our new variable declaration friends: `const` and `let`!!! All we have to say to you now, `var`, is...
 
@@ -39,12 +21,10 @@
 
 *(actually, var will be back...)*
 
-- Slides: AJAX & JSON Overview
+- AJAX & JSON Overview
 	- The HTTP Party
 	- JSON
 	- AJAX
-
-`Lunch break, noon-1:00`
 
 - Key points of the readings that we'll need, and demo some of them:
 	- Duckett JS book, pp.367-408
