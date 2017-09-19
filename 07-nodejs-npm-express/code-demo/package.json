@@ -1,0 +1,15 @@
+{
+  "name": "code-demo",
+  "version": "1.0.0",
+  "description": "This is a code demo for the 301d24 class.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Hunt-Walker",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}

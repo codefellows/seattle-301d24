@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Class 7 - Node and Express</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <h1>Hello world! I'm running on NodeJS!</h1>
+    <form id="the-form" action="" method="post">
+      <input type="text" name="food" value=""/>
+      <input type="submit" name="" value="Submit the Food">
+    </form>
+  </body>
+  <script>
+  $('#the-form').on('submit', function(event){
+    event.preventDefault();
+    $.post('/new-thing', {food: $('#the-form').find('input[name="food"]').val()})
+    this.reset();
+  })
+  </script>
+</html>
