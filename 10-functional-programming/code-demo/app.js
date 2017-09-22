@@ -97,3 +97,43 @@ pets
   .reduce(function(aggregator, name){
     return `${aggregator} \n\t ${name}`;
   }, 'Cat Names: ')
+
+  pets
+    .filter(animal => animal.species === 'cat')
+    .map(animal => animal.name)
+    .reduce((aggregator, name) => `${aggregator} \n\t ${name}`, 'Cat Names: ')
+
+
+
+/* ARROW FUNCTIONS! */
+(param1, param2, etc.) => {
+  // code that executes
+  // you can return things too if you want!
+}
+() => { // no parameters
+  // code
+}
+
+// All of what follows is equivalent (to a degree...)
+pets.filter(function(animal) { // if and only if you have one parameter
+  return animal.species === 'cat';
+})
+pets.filter((animal) => { // if you have any number of parameters
+  return animal.species === 'cat';
+})
+pets.filter(animal => { // if and only if you have one parameter
+  return animal.species === 'cat';
+})
+pets.filter(animal => animal.species === 'cat'); // if and only if you intend to return what comes after the arrow.
+
+// let isOdd = num => num % 2 ? true : false;
+
+// Note: arrow functions can in fact be used as IIFEs
+// They work like regular functions in every way except for what's listed below...
+
+/*
+Things Arrow Functions CANNOT Do
+- Cannot create object constructors
+- Cannot bind the keyword "this"
+- Probably not a good idea to use them for object methods
+*/
