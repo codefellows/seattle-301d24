@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://cdn.rawgit.com/visionmedia/page.js/master/page.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js" charset="utf-8"></script>
+    <script type="text/x-handlebars-template" id="temp">
+      <div>
+        <h2>{{ title }} | <a href="/tasks/{{ id }}">See Task</a></h2>
+        <p>Completed: {{ completed }}</p>
+      </div>
+    </script>
+    <script type="text/x-handlebars-template" id="form-temp">
+      <form id="the-form">
+        <table>
+          <tr>
+            <td>Task:</td>
+            <td><input type="text" name="task" /></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td><input type="submit" value="Submit" /></td>
+          </tr>
+        </table>
+      </form>
+    </script>
+  </head>
+  <body>
+    <a href="/">Home</a>
+    <a href="/tasks">See the tasks!</a>
+    <a href="/new-task">Add a new task!</a>
+    <section id="fill-with-data"></section>
+  </body>
+  <script src="/app.js" charset="utf-8"></script>
+</html>
