@@ -20,9 +20,7 @@
 	- [Crime City](http://crime-city.herokuapp.com/)
 	- [Find My BikeTown](https://find-my-biketown.herokuapp.com/)
 
-- Reminder: the entrance exam for the 401 courses (which doubles as the final exam for this course, and is part of the grade for this course, so you should take it even if not immediately going into a 401) will be published on Friday afternoon and be available until 11:59pm Sunday.
-
-- Reminder: For students looking to start the JS 401 or .NET 401 classes on 9/11, you will need to have all assignments/resubmits in by Monday morning so that we can get them graded and your course averages passed along to Admissions. Students not taking those classes will have the weekend after Project Week for resubmits. If you have individual concerns please message Sam to initiate a conversation.
+- **Reminder**: the entrance exam for the 401 courses (which doubles as the final exam for this course, and is part of the grade for this course, so you should take it even if not immediately going into a 401) will be published on Friday afternoon and be available until 11:59pm Sunday.
 
 - Depending on time, we'll do some code review before a break.
 
