@@ -43,7 +43,7 @@
 
 **Demo with the GitHub API**
 
-- Clone [this repo](https://github.com/codefellows/code-301-github-api) that we'll use for building out an example
+- Clone [this repo](https://github.com/codefellows/301-12-github-api) that we'll use for building out an example
 
 `BREAK (10 minutes)`
 
