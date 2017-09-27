@@ -76,5 +76,6 @@ ABCD:
 ## Readings
 <!-- List of readings required for this content; readings being completed by the start of this lecture -->
 
+- [Infrastructure, Platform, and Software as a Service Explained](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)
 - [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
 - [Deploying a Simple Blog to Heroku](https://howtonode.org/deploy-blog-to-heroku)
